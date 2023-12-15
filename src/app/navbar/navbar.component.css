@@ -1,0 +1,12 @@
+.nav1{
+    background-color: rgb(78,18,10);
+     height: 80px;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+      color: antiquewhite;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
